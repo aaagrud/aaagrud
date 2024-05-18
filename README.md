@@ -1,4 +1,4 @@
-# Hey there, I'm Durgaaa! 👋
+# Hey there, I'm durgaaa! 👋
 
 
 I'm a Computer Science and Engineering Student based in Kochi. I enjoy building things for the web and exploring new technologies.
