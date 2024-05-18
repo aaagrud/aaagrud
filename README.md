@@ -13,22 +13,22 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
 ## Languages and Tools
 ## Languages and Tools!
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" title="CSS" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" title="jQuery" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-EJS-2B2B2B?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" title="EJS" height="40" style="border-radius:50%">
-    <img src="https://icons8.com/icon/20906/git" alt="Git" title="Git" height="40" style="border-radius:50%">
+    <img src="./html.svg" alt="HTML" title="HTML" height="40" style="border-radius:50%">
+    <img src="./css.svg" alt="CSS" title="CSS" height="40" style="border-radius:50%">
+    <img src="./js.svg" alt="JavaScript" title="JavaScript" height="40" style="border-radius:50%">
+    <img src="./jquery.svg" alt="jQuery" title="jQuery" height="40" style="border-radius:50%">
+    <img src="./bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="40" style="border-radius:50%">
+    <img src="./tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="40" style="border-radius:50%">
+    <img src="./node.svg" alt="Node.js" title="Node.js" height="40" style="border-radius:50%">
+    <img src="./express.svg" alt="Express.js" title="Express.js" height="40" style="border-radius:50%">
+    <img src="./mysql.svg" alt="MySQL" title="MySQL" height="40" style="border-radius:50%">
+    <img src="./postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="40" style="border-radius:50%">
+    <img src="./python.svg" alt="Python" title="Python" height="40" style="border-radius:50%">
+    <img src="./java.svg" alt="Java" title="Java" height="40" style="border-radius:50%">
+    <img src="./c.svg" alt="C" title="C" height="40" style="border-radius:50%">
+    <img src="./c++.svg" alt="C++" title="C++" height="40" style="border-radius:50%">
+    <img src="./ejs.svg" alt="EJS" title="EJS" height="40" style="border-radius:50%">
+    <img src="./git.svg" alt="Git" title="Git" height="40" style="border-radius:50%">
 </div>
 
 
