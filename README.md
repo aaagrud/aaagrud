@@ -27,7 +27,7 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/durgasumesh" target="blank"><img align="center" src="./twitter.svg" alt="durga" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/durgasumesh" target="blank"><img align="center" src="./linkedin.svg" alt="durga" height="50" width="50" /></a>
 <a href="mailto:durgasumesh17@gmail.com" target="blank"><img align="center" src="./gmail.svg" alt="durga" height="50" width="50" /></a>
 </p>
 
