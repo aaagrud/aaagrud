@@ -6,8 +6,8 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adithyan_sv" target="blank"><img align="center" src="./twitter.svg" alt="durga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adithyansv" target="blank"><img align="center" src="./gmail.svg" alt="durga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/durgasumesh" target="blank"><img align="center" src="./twitter.svg" alt="durga" height="50" width="50" /></a>
+<a href="mailto:durgasumesh17@gmail.com" target="blank"><img align="center" src="./gmail.svg" alt="durga" height="50" width="50" /></a>
 </p>
 
 ## Languages and Tools
@@ -28,7 +28,7 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" height="40" style="border-radius:50%">
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" height="40" style="border-radius:50%">
     <img src="https://img.shields.io/badge/-EJS-2B2B2B?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" title="EJS" height="40" style="border-radius:50%">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" height="40" style="border-radius:50%">
+    <img src="https://icons8.com/icon/20906/git" alt="Git" title="Git" height="40" style="border-radius:50%">
 </div>
 
 
