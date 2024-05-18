@@ -6,8 +6,8 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adithyan_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="durga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adithyansv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="durga" height="30" width="40" /></a>
+<a href="https://twitter.com/adithyan_sv" target="blank"><img align="center" src="./twitter.svg" alt="durga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithyansv" target="blank"><img align="center" src="./gmail.svg" alt="durga" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
