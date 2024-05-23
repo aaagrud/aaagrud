@@ -1,11 +1,11 @@
-# Hey there, I'm durgaaa! 👋
+# Hey there! 👋
 
 
 I'm a Computer Science and Engineering Student based in Kochi. I enjoy building things for the web and exploring new technologies.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1100&color=39FF14&vCenter=true&width=1000&lines=♡+CODE+TO+CREATE+AND+CONNECT+♡)](https://git.io/typing-svg)
 
-## Languages and Tools:
+## I code with:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="./html.svg" alt="HTML" title="HTML" height="40" style="border-radius:50%">
     <img src="./css.svg" alt="CSS" title="CSS" height="40" style="border-radius:50%">
