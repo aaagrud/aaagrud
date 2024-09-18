@@ -24,7 +24,7 @@ I'm a Computer Science and Engineering Student based in Kochi. I enjoy building 
     <img src="./ejs.svg" alt="EJS" title="EJS" height="40" style="border-radius:50%">
     <img src="./git.svg" alt="Git" title="Git" height="40" style="border-radius:50%">
     <img src="./django.svg" alt="Django" title="Django" height="40" style="border-radius:50%">
-    <img src="./react.svg" alt="React" title="Django" height="40" style="border-radius:50%">
+    <img src="./react.svg.svg" alt="React" title="Django" height="40" style="border-radius:50%">
 </div>
 
 ## Connect with me:
